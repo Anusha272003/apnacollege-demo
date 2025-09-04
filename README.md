@@ -1,4 +1,3 @@
 # apnacollege-demo
-This is my  third git repo<be>
-
-Author-Anusha
+This is my  third git repo.<br>
+Author - Anusha
